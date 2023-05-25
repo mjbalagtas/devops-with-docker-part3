@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: mjmbalagt4s/express-app:1.0
+          tags: mjmbalagt4s/express-app
